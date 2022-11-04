@@ -1,2 +1,2 @@
 # Windows-prank
-Please install easygui\nno admin
+Please install easygui and no admin to run!!!
